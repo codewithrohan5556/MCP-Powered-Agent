@@ -387,13 +387,3 @@ MCP (Model Context Protocol) is Anthropic's open standard for connecting AI agen
 - [CampusX MCP Playlist](#)
 
 ---
-
-## 👤 Author
-
-**Your Name**  
-AI Engineer — LLMs, RAG, Agents, MCP, AWS  
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
-
----
-
-*Project 9 of 10 — Built as part of a 4-month intensive GenAI engineering roadmap (April–July 2026).*
